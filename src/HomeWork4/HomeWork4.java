@@ -57,7 +57,7 @@ public class HomeWork4 {
         Если пользователь сдает металл весом меньше чем 5, программа тоже предупреждает о невозможности приемки
         такого малого веса. Программа завершается, когда место на складе закончилось.*/
 
-      /*  Scanner scanner = new Scanner(System.in);
+        /*Scanner scanner = new Scanner(System.in);
         System.out.println("Введите максимальный вес который может храниться на складе: ");
         int criticalWeight = scanner.nextInt();
         System.out.println("Введите вес, который хотите поместить на склад: ");
