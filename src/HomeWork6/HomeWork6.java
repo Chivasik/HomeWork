@@ -64,7 +64,7 @@ public class HomeWork6 {
 
 */
 
-
+/**/
         Scanner scann = new Scanner(System.in);
         System.out.println("All Set. Get ready to rumble!");
 
